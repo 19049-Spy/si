@@ -1,0 +1,6 @@
+<movies>
+    <movie id="1" name="Slunce, seno a par facek" year="1989">
+        <country id="1" name="czech">
+    </movie>
+    <genre id="1" name=["Komedie"]>
+</movies>
